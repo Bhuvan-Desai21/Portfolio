@@ -5,7 +5,11 @@
     --background-color: #eeeff1;
     font-size: 17px; /* Set the base font size */
 }
-
+:root-dark {
+    --text-color: #ffffff;
+    --link-color: #ffffff;
+    --background-color: #1a1c20;
+}
 * {
     margin: 0;
     padding: 0;
